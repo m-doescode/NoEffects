@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "noeffects",
+    "name": "NoEffects",
+    "description": "Removes all effects from the vanilla game. Players and entities will be unable to use potions and will not get effects applied onto them. Existing effects are cleared retroactively.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://github.com/m-doescode/NoEffects",
+    "updateUrl": "",
+    "authorList": [
+      "Majd123mc"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
