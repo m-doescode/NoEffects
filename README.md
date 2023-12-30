@@ -1,4 +1,4 @@
-# NoEffects
+# NoEffects [Forge 1.12.2]
 
 NoEffects removes potion effects from the game by hooking onto events. It will remove any effects from any entity upon being loaded into the world and the potion effect add event is immediately cancelled.
 
